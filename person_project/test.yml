@@ -1,0 +1,30 @@
+people:
+  - first_name: Joe
+    Surname: hearts
+    dob: "12 May 2014"
+    email:
+    - joe@foo.com
+    - jp@doit.com
+    phone:
+    - 07876543213
+    - 01246789000
+
+  - first_name: Jonny
+    Surname: Lost
+    dob: "02 May 2014"
+    email:
+    - jonny@foo.com
+    - jy@doit.com
+    phone: 
+    - 07998653567
+    - 01233387872
+
+  - first_name: Mera
+    Surname: Gold
+    dob: "20 May 2004"
+    email:
+    - m_gold@foo.com
+    - mg@doit.com
+    phone:
+    - 07456996540
+    - 01229999999
